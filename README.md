@@ -6,12 +6,6 @@ Para execução do projeto é necessário:
 ----
  * Ter o [Maven],[Android SDK] e [Java] instalados;
  * Ter o servidor do [Appium] iniciado.
- 
-
-Plugin utilizado para elaboração das features
------
-
-Plugin para visualização dos cenários https://github.com/rlogiacco/Natural/wiki
 
 [Appium]:http://appium.io/
 [Cucumber-JVM]:https://github.com/cucumber/cucumber-jvm
