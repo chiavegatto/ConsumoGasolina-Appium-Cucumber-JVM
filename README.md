@@ -1,6 +1,6 @@
 Projeto
 ========= 
-Esse é apenas um simples projeto para automatização do projeto [ConsumoGasolina] utilizando o framework [Appium] e [Cucumber-JVM].
+Esse é apenas um simples projeto para automatização do projeto [Consumo Gasolina] utilizando o framework [Appium] e [Cucumber-JVM].
 
 Para execução do projeto é necessário:
 ----
